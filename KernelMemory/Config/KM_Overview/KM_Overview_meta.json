@@ -1,0 +1,150 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Synchronous Memory API (aka \"serverless\")",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          1022.7392578125,
+          1109.8525955093135
+        ],
+        [
+          2002.314208984375,
+          1109.8525955093135
+        ],
+        [
+          2002.314208984375,
+          1169.0447339364769
+        ],
+        [
+          1022.7392578125,
+          1169.0447339364769
+        ]
+      ]
+    },
+    {
+      "title": "Memory as a Service - Asynchronous API",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          1016.0546875,
+          2204.23828125
+        ],
+        [
+          1959.916015625,
+          2204.23828125
+        ],
+        [
+          1959.916015625,
+          2261.2218992210123
+        ],
+        [
+          1016.0546875,
+          2261.2218992210123
+        ]
+      ]
+    },
+    {
+      "title": "Kernel Memory (KM) and SK Semantic Memory\n(SM)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          1022.7392578125,
+          3647.7155305739434
+        ],
+        [
+          2100.2919921875,
+          3647.7155305739434
+        ],
+        [
+          2100.2919921875,
+          3773.23828125
+        ],
+        [
+          1022.7392578125,
+          3773.23828125
+        ]
+      ]
+    },
+    {
+      "title": "Topics",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          1025.9998779296875,
+          6125.238098144531
+        ],
+        [
+          1164.4521484375,
+          6125.238098144531
+        ],
+        [
+          1164.4521484375,
+          6179.238098144531
+        ],
+        [
+          1025.9998779296875,
+          6179.238098144531
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          377
+        ],
+        [
+          "Line",
+          131
+        ],
+        [
+          "TableCell",
+          57
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\KM_Overview"
+}
