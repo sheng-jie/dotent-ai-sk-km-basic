@@ -4,7 +4,9 @@
 
 [.NET+AI 基础入门视频课程](https://www.bilibili.com/video/BV1ELQ6Y2E47)
 
-同时诚邀扫描大家加入【.NET+AI】腾讯频道，该频道将共享.NET上优质资源资讯。点击 [.NET+AI](https://pd.qq.com/s/60je4hsvi?b=9) 即可加入腾讯频道。
+同时诚邀大家扫描下方二维码加入【.NET+AI】腾讯频道，该频道将共享.NET上优质资源资讯。
+![](./Resources/qq-channel.png)
+也可点击 [.NET+AI](https://pd.qq.com/s/60je4hsvi?b=9) 即可加入腾讯频道。
 
 也可扫描下方介绍的微信二维码，加入.NET AI 学习沟通群。
 
